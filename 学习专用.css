@@ -1,0 +1,10 @@
+.a{color: crimson;}
+.b{
+    color:blue;
+    border: solid red;
+    margin: 0 auto;
+    width: 245px;
+    height: 30px;
+    border-width: 2px;
+    background: springgreen;
+}
